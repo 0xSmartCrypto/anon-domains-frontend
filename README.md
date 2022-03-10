@@ -11,7 +11,7 @@ You can mint and manage .anon domains on Polygon (Mumbai Testnet). You can:
 
 ** Note ** -- every time you deploy changes to the contract to Mumbai Testnet, you need to copy the ABI from [`anon-domains`](https://github.com/0xSmartCrypto/anon-domains) to this repo, with this command:
 `npm run cp`
-### Quickstart
+## Quickstart
 
 To get started, 
 
